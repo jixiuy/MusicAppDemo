@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_recommend"
+        android:icon="@drawable/baseline_music_note_24"
+        android:title="推荐" />
+
+    <item
+        android:id="@+id/menu_discover"
+        android:icon="@drawable/baseline_explore_24"
+        android:title="发现" />
+
+    <item
+        android:id="@+id/menu_roaming"
+        android:icon="@drawable/baseline_radio_24"
+        android:title="漫游" />
+
+    <item
+        android:id="@+id/menu_community"
+        android:icon="@drawable/baseline_forum_24"
+        android:title="社区" />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="我的" />
+
+</menu>
